@@ -7,6 +7,10 @@ A repository of email layouts for use with customer.io
 
 Copy and paste straight in to your customer.io account, or modify these themes as you like.
 
+If making custom email layouts, pick a layout from the `/makers` directory and add partials from the `/makers/partials` directory.
+
+**You must copy-paste the whole of a partial into an email for it to render correctly.**
+
 ### Note
 
 These layouts are designed only for use with Customer.io. We use the open source tool Premailer to process and inline style tags. This makes these layouts easier to maintain, but unusable with other mailers that don't inline CSS for you.
