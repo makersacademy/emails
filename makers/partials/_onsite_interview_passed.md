@@ -1,0 +1,3 @@
+#link for onsite typeform (interview passed) 
+
+https://makersacademy.typeform.com/to/uGKbQx?email={{customer.email}}&firstname={{customer.firstName}}&lastname={{customer.lastName}}
