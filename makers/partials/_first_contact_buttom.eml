@@ -1,0 +1,5 @@
+<center>
+  <p>
+    <a class="button button--vertical" href="https://apply.makersacademy.com/{{customer["Course Type"]}}/application?first_name={{customer.firstName}}&last_name={{customer.lastName}}&email={{customer.email}}" target="_blank">Continue with my application</a>
+  </p>
+</center>
